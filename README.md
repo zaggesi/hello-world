@@ -1,4 +1,3 @@
 # hello-world
-Initial repository for tests
+This repository is empty.
 
-Here are some changes to readme file.
